@@ -1,0 +1,10 @@
+@media all and (max-width: 1200px) {
+    .text-box {
+        margin-left: -100px;
+      }
+}
+@media all and (max-width: 1000px) {
+    .text-box {
+        margin-left: -125px;
+      }
+}
