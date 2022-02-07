@@ -8,3 +8,8 @@
         margin-left: -125px;
       }
 }
+@media all and (max-width: 416px) {
+  .head-text img {
+    margin-left: 27px;
+}
+}
